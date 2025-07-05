@@ -4,4 +4,6 @@ git status //
 
 git add . //
 
-git commit -m "manual git" //ok
+git commit -m "manual git" //
+
+git checkout -b func_1 // cria uma nova branch
