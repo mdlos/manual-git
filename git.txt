@@ -1,9 +1,0 @@
-git init // Inicia o git e cria uma pasta oculta
-
-git status //
-
-git add . //
-
-git commit -m "manual git" //
-
-git checkout -b func_1 // cria uma nova branch
